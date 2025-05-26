@@ -9,6 +9,7 @@ A collection of small CSS-only projects for practice and fun.
 | 3  | Loading Animations Effects    | [View](https://extraordinary-daifuku-8073ea.netlify.app/) |
 | 4 | 3D Wavy Circle Loader Animation Effects   | [View](https://glistening-kangaroo-4deae7.netlify.app/)|
 | 5 | Responsive login page created with Bootstrap 5   | [View](https://regal-mermaid-5b53d9.netlify.app/)|
+| 6 | Stunning 3D Website  | [View](https://unrivaled-bonbon-7b4786.netlify.app/)|
 
 
 
